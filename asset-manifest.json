@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Basic-API-Request/static/css/main.ed93619c.css",
+    "main.js": "/Basic-API-Request/static/js/main.cd7e339a.js",
+    "index.html": "/Basic-API-Request/index.html",
+    "main.ed93619c.css.map": "/Basic-API-Request/static/css/main.ed93619c.css.map",
+    "main.cd7e339a.js.map": "/Basic-API-Request/static/js/main.cd7e339a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed93619c.css",
+    "static/js/main.cd7e339a.js"
+  ]
+}
